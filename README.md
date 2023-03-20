@@ -28,7 +28,7 @@ The score earned by your submission will be assigned to the team assuming that t
 
 # Deadline and discussion
 
-_Deadline_: 2359h on Sun, 26 Mar
+_Deadline_: 0900h on Mon, 27 Mar
 
 For discussion on the WC, please use the related Canvas discussion thread.
 
